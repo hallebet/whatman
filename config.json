@@ -26,7 +26,7 @@
 			"outArguments": [
 				{  "status": ""}
 	],
-		"url": "https://whatsappseuba.herokuapp.com/whatsapp.php/execute", 
+		"url": "https://albertseuba.herokuapp.com/whatsapp.php/execute", 
 		"verb": "POST",
         "body": "",
 		"header": "",
@@ -37,19 +37,19 @@
     },
     "configurationArguments": {
        "save": {
-          "url": "https://whatsappseuba.herokuapp.com/",
+          "url": "https://albertseuba.herokuapp.com/",
 		  "verb": "POST"
        },
        "publish": {
-          "url": "https://whatsappseuba.herokuapp.com/", 
+          "url": "https://albertseuba.herokuapp.com/", 
 		  "verb": "POST"
        },
        "validate": {
-         "url": "https://whatsappseuba.herokuapp.com/", 
+         "url": "https://albertseuba.herokuapp.com/", 
 		  "verb": "POST"
        },
        "stop": {
-          "url": "https://whatsappseuba.herokuapp.com/",
+          "url": "https://albertseuba.herokuapp.com/",
 		  "verb": "POST"
         }
     },
